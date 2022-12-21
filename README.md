@@ -1,7 +1,7 @@
 ### Hi, I'm Egor 👋
 
 ## Contacts
-- Telegram: @gushinegor
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gushinegor)
 - Email: gea11@yandex.ru
 - Phone: +7(903) 600-4677
 
