@@ -2,6 +2,7 @@
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/gushinegor)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=1082BE)](https://www.linkedin.com/in/егор-гущин-8662ab252/)
 - Email: gea11@yandex.ru
 - Phone: +7(903) 600-4677
 
