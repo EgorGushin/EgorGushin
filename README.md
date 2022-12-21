@@ -15,3 +15,6 @@
 
 [![Nginx](https://img.shields.io/badge/-Nginx-119B44?style=for-the-badge&logo=Nginx&logoColor=FFFFFF)](https://nginx.org/ru/)
 [![Git](https://img.shields.io/badge/-Git-2E2C2C?style=for-the-badge&logo=Git)](https://git-scm.com/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorGushin)](https://github.com/EgorGushin/github-readme-stats)
+
